@@ -7,3 +7,13 @@ body {
   padding: 0;
   margin: 0;
 }
+
+img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+
+#mainvisual {
+  width: 90vw;
+  margin: 4% auto 0 auto;
+}
