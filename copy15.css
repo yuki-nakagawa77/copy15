@@ -13,7 +13,35 @@ img {
   vertical-align: bottom;
 }
 
+a {
+  color: #2d2d2d;
+  text-decoration: none;
+}
+
 #mainvisual {
   width: 90vw;
   margin: 4% auto 0 auto;
+}
+
+#header {
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  padding: 32px 0;
+  margin: 0 auto 30px auto;
+}
+
+.site-title {
+  width: 110px;
+  line-height: 1px;
+  margin-right: 50px;
+}
+
+.site-title a {
+  display: block;
+}
+
+#header li {
+  font-size: 0.875rem;
+  margin-right: 30px;
 }
